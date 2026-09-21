@@ -18,6 +18,39 @@
 | ⛔ **Prohibido el guion largo (—) y el medio (–) en el copy** de la página | *PROMPT Y ESTRUCTURA* |
 | ⛔ **Prohibida la jerga y los superlativos vacíos** («solución integral», «líderes del sector») | *PROMPT Y ESTRUCTURA* |
 | **Español de España.** Cero voseo, cero léxico latino | regla de Dirección (borró una tanda por esto) |
+| ⛔ **Prohibidas las muletillas de IA** (lista en §1b) | `elayadesign/ai-design-skills`, B8 · adoptada por Dirección el 14-09-2026 |
+
+## 1b · Muletillas de IA — PROHIBIDAS en todo el copy de la página
+
+> **Fuente:** la sección *Content realism* de `elayadesign/ai-design-skills` (skill `landing-page-design`),
+> traducida y adaptada. **No es un dato medido**: es la lista de señales por las que un texto se nota
+> generado. Dirección la adoptó el 14-09-2026.
+
+**Frases y palabras que no se escriben nunca** (ni en titulares, ni en CTA, ni en FAQ):
+
+| Muletilla | Por qué sobra |
+|---|---|
+| «potenciar», «impulsar tu negocio», «llevar al siguiente nivel» | promesa sin resultado medible |
+| «sin fisuras», «de forma fluida», «sin complicaciones» | adjetivo de relleno, no dice qué desaparece |
+| «revolucionario», «de vanguardia», «de nueva generación», «innovador» | superlativo vacío |
+| «cambia las reglas del juego», «un antes y un después» | cliché de anuncio |
+| «desbloquea», «descubre el poder de», «libera todo tu potencial» | traducción literal del inglés de IA |
+| «en el mundo de…», «en la era digital», «en el panorama actual» | arranque que retrasa la idea |
+| «sumérgete», «adéntrate», «explora» | verbo de folleto |
+| «¿Listo para…?», «No busques más» | pregunta retórica de plantilla |
+| «soluciones integrales/a medida», «tu socio de confianza» | ya prohibido como jerga en §1 |
+
+**Cómo se arregla:** se sustituye la muletilla por **el hecho concreto del brief** que la justificaría
+(plazo, cifra, qué deja de pasar). Si el brief no tiene ese hecho, la frase se borra; **no se inventa el
+dato**.
+
+**Tono de los microtextos:** titulares en *sentence case* (nunca Todas Las Palabras En Mayúscula), voz
+activa, y sin exclamaciones ni «¡Vaya!» en mensajes de éxito o error: «No se ha podido enviar. Inténtalo de
+nuevo».
+
+⚠️ **Lo que NO se copia de esa misma sección:** Elaya pide cifras «orgánicas» inventadas (47,2 %, teléfonos
+falsos) para que la maqueta parezca real. **En la casa está prohibido inventar cualquier dato**: lo que
+falte va como `[dato pendiente]` visible.
 
 ## 2 · El titular del hero
 
@@ -88,7 +121,8 @@ Formulario dentro del hero · menú de navegación en el header (abre rutas de e
 testimonios, cifras, garantías, descuentos o fechas de urgencia · titulares que explican quién eres en vez
 de por qué importa · jerga y superlativos vacíos · un bullet de dolor sin su espejo exacto en la columna de
 alivio · prueba social en carrusel en móvil · frases de más de 15 palabras o párrafos de más de 2 oraciones
-· guiones largos o medios · «sin compromiso» o «gratis» bajo el CTA en alto ticket.
+· guiones largos o medios · «sin compromiso» o «gratis» bajo el CTA en alto ticket · muletillas de IA
+(§1b).
 
 ## 9 · Velocidad — ⚠️ LEER ESTO ANTES DE CITAR UNA CIFRA
 

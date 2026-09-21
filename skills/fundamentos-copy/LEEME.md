@@ -9,7 +9,7 @@ Base compartida de persuasión de Flowboost — Ogilvy (principios destilados + 
 
 **Qué NO hace:** NO produce nada por sí sola: la leen las skills de estáticos, copy de anuncios, guiones, VSL y landings.
 
-## Antes de empezar necesitás
+## Antes de empezar necesitas
 
 - La skill **`auditar-guiones-egc`** (paquete *guiones*): lee ficheros suyos.
 - La skill **`estaticos-meta`** (paquete *creatividades*): lee ficheros suyos.
@@ -41,4 +41,4 @@ Google Drive del cliente (solo lectura salvo entregables), n8n, Tally (formulari
 
 ---
 
-*Generado el 10-09-2026 desde el sistema de Flowboost. Se regenera con `gen_leeme.py`; no editar a mano.*
+*Generado el 21-09-2026 desde el sistema de Flowboost. Se regenera con `gen_leeme.py`; no editar a mano.*
